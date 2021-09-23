@@ -9,7 +9,7 @@
 * [Link URL of deployed app to Heroku](#link-URL-of-deployed-app-to-Heroku)
 
 ## **_Description of the project_**
-This single page MERN app is an e-commerce websites where users can create an account, filter products through categories, place products in their cart and buy them. This application also uses front-end routing, api requests (queries and mutations) and user authentication. + GLOBAL STATE
+This single page MERN app is an e-commerce websites where users can create an account, filter products through categories, place products in their cart and buy them. This application also uses front-end routing, api requests (queries and mutations), user authentication and Global State.
 
 ## **_Technologies used_**
 Project is created using:
