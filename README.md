@@ -33,7 +33,7 @@ Here are some guidelines for installing the project on your local machine in ord
 
 3. Run ```npm run develop``` in your terminal from the root directory to launch the application. Or check the deployed app directly on the app's heroku link (https://nameless-mountain-67989.herokuapp.com/).
 
-4. Enjoy and don't hesitate to contribute!
+4. Enjoy and don't hesitate to contribute! 🙂
 
 ## **_Link URL to GitHub Repository_**
 https://github.com/Noemiegrau/shop-shop
